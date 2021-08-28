@@ -1,4 +1,4 @@
-# Maratona de Programação 3: Twitter
+# 3ª Maratona Kenzie: Kentivi (Twitter)
 
 Projeto desenvolvido na parte 3 da maratona de programação da Kenzie Academy Brasil.
 
